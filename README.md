@@ -10,3 +10,6 @@
 
 3. Input Page(Loading)
 ![loading](https://github.com/qwertytoki/Dietgram/blob/master/slides/InputPageLoading.png)
+
+4. Input Page(finish)
+![finish](https://github.com/qwertytoki/Dietgram/blob/master/slides/finish.png)
