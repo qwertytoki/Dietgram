@@ -27,3 +27,16 @@
 
 7. Input Page(Search)
 !![Search](https://github.com/qwertytoki/Dietgram/blob/master/slides/InputPageSearch.png)
+
+
+8. Input Page(Save)
+!![Search](https://github.com/qwertytoki/Dietgram/blob/master/slides/InputPageSave.png)
+
+
+9. Activity Page(Basketball)
+!![Search](https://github.com/qwertytoki/Dietgram/blob/master/slides/ActivityPageBasket.png)
+
+
+10. Activitty Page(Ironman)
+!![Search](https://github.com/qwertytoki/Dietgram/blob/master/slides/ActivityPageIronman.png)
+
