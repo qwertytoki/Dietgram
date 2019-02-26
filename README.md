@@ -19,3 +19,11 @@
 
 5. Activity Page
 ![finish](https://github.com/qwertytoki/Dietgram/blob/master/slides/activityPage.png)
+
+
+6. Input Page
+!![Input](https://github.com/qwertytoki/Dietgram/blob/master/slides/activityPage.png)
+
+
+7. Input Page(Search)
+!![Search](https://github.com/qwertytoki/Dietgram/blob/master/slides/InputPageSearch.png)
