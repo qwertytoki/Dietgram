@@ -9,38 +9,38 @@
 ![alert](https://github.com/qwertytoki/Dietgram/blob/master/slides/InputPageAlert.png)
 
 
-2-1. Input Page(Offer to install Google Fit * Android Only)
+3. Input Page(Offer to install Google Fit * Android Only)
 ![InstallGoogleFit](https://github.com/qwertytoki/Dietgram/blob/master/slides/InstallGoogleFit.png)
 
 
-3. Input Page(Loading)
+4. Input Page(Loading)
 ![loading](https://github.com/qwertytoki/Dietgram/blob/master/slides/InputPageLoading.png)
 
 
-4. Input Page(finish)
+5. Input Page(finish)
 ![finish](https://github.com/qwertytoki/Dietgram/blob/master/slides/finish.png)
 
 
-5. Activity Page
+6. Activity Page
 ![finish](https://github.com/qwertytoki/Dietgram/blob/master/slides/activityPage.png)
 
 
-6. Input Page
+7. Input Page
 !![Input](https://github.com/qwertytoki/Dietgram/blob/master/slides/activityPage.png)
 
 
-7. Input Page(Search)
+8. Input Page(Search)
 !![Search](https://github.com/qwertytoki/Dietgram/blob/master/slides/InputPageSearch.png)
 
 
-8. Input Page(Save)
+9. Input Page(Save)
 !![Save](https://github.com/qwertytoki/Dietgram/blob/master/slides/InputPageSave.png)
 
 
-9. Activity Page(Basketball)
+10. Activity Page(Basketball)
 !![BasketBall](https://github.com/qwertytoki/Dietgram/blob/master/slides/activityPageBasket.png)
 
 
-10. Activitty Page(Ironman)
+11. Activitty Page(Ironman)
 !![Ironman](https://github.com/qwertytoki/Dietgram/blob/master/slides/ActivityPageIronman.png)
 
