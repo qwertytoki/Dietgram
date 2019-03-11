@@ -9,6 +9,10 @@
 ![alert](https://github.com/qwertytoki/Dietgram/blob/master/slides/InputPageAlert.png)
 
 
+2-1. Input Page(Offer to install Google Fit * Android Only)
+![InstallGoogleFit](https://github.com/qwertytoki/Dietgram/blob/master/slides/InstallGoogleFit.png)
+
+
 3. Input Page(Loading)
 ![loading](https://github.com/qwertytoki/Dietgram/blob/master/slides/InputPageLoading.png)
 
