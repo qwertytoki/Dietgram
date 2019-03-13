@@ -44,3 +44,10 @@
 11. Activitty Page(Ironman)
 !![Ironman](https://github.com/qwertytoki/Dietgram/blob/master/slides/ActivityPageIronman.png)
 
+12. Change View to Month view
+!![Change view](https://github.com/qwertytoki/Dietgram/blob/master/slides/ChangeView.png)
+
+13. 
+!![Menu](https://github.com/qwertytoki/Dietgram/blob/master/slides/Menu.png)
+
+
