@@ -47,7 +47,12 @@
 12. Change View to Month view
 !![Change view](https://github.com/qwertytoki/Dietgram/blob/master/slides/ChangeView.png)
 
-13. 
+13. Open Menu from menu button
 !![Menu](https://github.com/qwertytoki/Dietgram/blob/master/slides/Menu.png)
 
+14. Activity page (Month view)
+!![MonthView](https://github.com/qwertytoki/Dietgram/blob/master/slides/MonthView.png)
+
+15. Notification
+!![Notification](https://github.com/qwertytoki/Dietgram/blob/master/slides/Notification.png)
 
